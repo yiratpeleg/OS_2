@@ -1,0 +1,3 @@
+/home/yirat/Desktop/C++/OS_task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yirat/Desktop/C++/OS_task2/cmake-build-debug/CMakeFiles/OS_task2.dir
+/home/yirat/Desktop/C++/OS_task2/cmake-build-debug/CMakeFiles/edit_cache.dir
